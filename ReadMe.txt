@@ -10,4 +10,6 @@ Available RAM,
 and RAM Usage
 
 
-written in Java
+written in Java and made in Android Studio!
+
+          - Brady Barker
